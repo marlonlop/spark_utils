@@ -1,2 +1,2 @@
 # spark_utils
-spark simple utility function for common operations
+spark simple utility functions for common operations
